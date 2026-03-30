@@ -1,12 +1,18 @@
-# Projeto — MinhaTirinha
+# Glossário
 
 ## Introdução
 
-> 🚧 Conteúdo a ser preenchido sobre o projeto MinhaTirinha.
+> 🚧 Conteúdo a ser preenchido.
 
-## Visão Geral
+## Tabela de Termos
 
-## Objetivos
+| Termo | Definição | Categoria |
+| :--- | :--- | :--- |
+| — | — | — |
+
+## Referências Bibliográficas
+
+> 🚧 Referências a serem adicionadas.
 
 ## Histórico de Versões 📅
 

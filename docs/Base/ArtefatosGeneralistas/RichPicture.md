@@ -1,12 +1,18 @@
-# Projeto — MinhaTirinha
+# Rich Picture
 
 ## Introdução
 
-> 🚧 Conteúdo a ser preenchido sobre o projeto MinhaTirinha.
+> 🚧 Conteúdo a ser preenchido.
 
-## Visão Geral
+## Metodologia
 
-## Objetivos
+> 🚧 Conteúdo a ser preenchido.
+
+## Rich Picture Final
+
+## Referências Bibliográficas
+
+> 🚧 Referências a serem adicionadas.
 
 ## Histórico de Versões 📅
 
