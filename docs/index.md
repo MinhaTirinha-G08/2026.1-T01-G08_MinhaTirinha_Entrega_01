@@ -68,6 +68,23 @@ A arquitetura adotada prioriza escalabilidade, organização do código e facili
       <a href="https://github.com/pedrohpsantos">@pedrohpsantos</a>
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="4">
+      <img src="https://avatars.githubusercontent.com/DaviNegreiros?v=4" width=100 style="border-radius: 50%;"><br>
+      <b>Davi Monteiro de Negreiros</b><br>
+      <a href="https://github.com/DaviNegreiros">@DaviNegreiros</a>
+    </td>
+    <td align="center" colspan="4">
+      <img src="https://avatars.githubusercontent.com/GabrielSPinto?v=4" width=100 style="border-radius: 50%;"><br>
+      <b>Gabriel Santos Pinto</b><br>
+      <a href="https://github.com/GabrielSPinto">@GabrielSPinto</a>
+    </td>
+    <td align="center" colspan="4">
+      <img src="https://avatars.githubusercontent.com/YasminDayrell?v=4" width=100 style="border-radius: 50%;"><br>
+      <b>Yasmin Dayrell Albuquerque</b><br>
+      <a href="https://github.com/YasminDayrell">@YasminDayrell</a>
+    </td>
+  </tr>
 </table>
 
 ## Histórico de versões

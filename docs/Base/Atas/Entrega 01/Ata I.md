@@ -7,7 +7,7 @@
 | **Data** | — |
 | **Horário** | — |
 | **Local** | — |
-| **Participantes** | — |
+| **Participantes** | Ana Carolina, Davi Monteiro, Gabriel Santos, Guilherme Flyan, João Marcelo, Maria Samara, Marjorie Mitzi, Pedro Henrique, Raissa Silva, Yasmin Dayrell |
 
 ## Pauta
 
