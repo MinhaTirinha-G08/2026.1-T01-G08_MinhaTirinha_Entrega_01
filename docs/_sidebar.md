@@ -1,5 +1,9 @@
 <!-- docs/_sidebar.md -->
+![MinhaTirinha](../assets/logo_chaleon_minhatirinha.png)
 
+* **Início**
+* [Módulo Design Sprint](Base/1.1.DesignSprint.md)
+* [Módulo Artefato Generalista](Base/1.2.ArtefatoGeneralista.md)
 - [Home](/docs)
 - [Projetos](/docs/Projeto/Projeto.md)
 
