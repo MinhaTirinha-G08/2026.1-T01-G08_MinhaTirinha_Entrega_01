@@ -1,7 +1,8 @@
 # MinhaTirinha
 
 <div align="center">
-  <img src="docs/assets/Design_Sprint/logo_chaleon_minhatirinha.png" width="250">
+  <img src="assets/Design_Sprint/logo_chaleon_minhatirinha.png" width="250">
+</div>
 
   **Repositório do Grupo 08 para a disciplina de Arquitetura e Desenho de Software — Turma 01, semestre 2026.1.**
 
