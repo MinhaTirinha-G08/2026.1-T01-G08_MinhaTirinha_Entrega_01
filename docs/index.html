@@ -2,64 +2,38 @@
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
-  <title>MinhaTirinha | Wiki Oficial</title>
+  <title>MinhaTirinha | Documentação</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-
   <style>
-    /* CUSTOMIZAÇÃO DE CORES (Troque o #4A90E2 pela sua cor preferida) */
     :root {
-      --theme-color: #FFB6C1; 
+      --theme-color: #4A90E2; /* Azul Sereno */
     }
-
-    /* Deixa a busca e o topo com a cor do tema */
-    .search input:focus {
-      border-color: var(--theme-color) !important;
-    }
-    
-    /* Estilo para abas superiores (Navbar) */
+    /* Estilo para a barra superior igual ao Grupo 1 */
     .app-nav {
-      position: sticky;
-      margin: 0;
-      padding: 10px 0;
       background-color: var(--theme-color);
       color: white;
-      left: 0;
-      right: 0;
+      padding: 10px 0;
       text-align: center;
     }
-    .app-nav a {
-      color: white !important;
-      font-weight: bold;
-      margin: 0 15px;
-    }
+    .app-nav a { color: white !important; font-weight: bold; margin: 0 15px; }
+    .sidebar-nav li a { font-size: 15px; }
   </style>
 </head>
 <body>
-  <div id="app">Carregando MinhaTirinha...</div>
+  <div id="app">Carregando documentação...</div>
   <script>
     window.$docsify = {
       name: 'MinhaTirinha - G08',
       repo: 'https://github.com/Marjoriemitzi/2026.1-T01-G08_MinhaTirinha_Entrega_01',
-      
-      // CONFIGURAÇÕES IGUAIS AO GRUPO 1
-      loadSidebar: true,   // Menu lateral
-      loadNavbar: true,    // Menu superior (Abas)
-      subMaxLevel: 3,      // Tópicos internos no menu
-      auto2top: true,      // Sobe ao topo na troca de página
-      
-      search: {
-        maxAge: 86400000,
-        paths: 'auto',
-        placeholder: 'Pesquisar...',
-        noData: 'Nenhum resultado encontrado!',
-        depth: 4
-      }
+      loadSidebar: true,
+      loadNavbar: true,  // ATIVA AS ABAS SUPERIORES
+      subMaxLevel: 2,
+      auto2top: true,
+      search: 'auto'
     }
   </script>
-
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>

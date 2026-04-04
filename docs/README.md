@@ -1,6 +1,9 @@
 <div align="center">
-  ![MinhaTirinha Logo](assets/Design_Sprint/logo_chaleon_minhatirinha.png)
-  # Wiki Oficial do Projeto MinhaTirinha
+
+![MinhaTirinha Logo](assets/Design_Sprint/logo_chaleon_minhatirinha.png)
+
+# Wiki Oficial do Projeto MinhaTirinha
+
 </div>
 
 ---
