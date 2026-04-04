@@ -9,59 +9,68 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 
   <style>
-    /* COR DO TEMA (Troque aqui para mudar a cor de tudo) */
     :root {
-      --theme-color: #4A90E2; 
+      --theme-color: #FFB6C1; /* Cor Azul do seu tema */
     }
 
-    /* Estilo da Barra Superior (Igual ao Grupo 1) */
+    /* ESTILO GRUPO 1: Barra Superior Completa */
     .app-nav {
-      position: sticky;
+      position: fixed;
       margin: 0;
-      padding: 12px 0;
-      background-color: var(--theme-color); /* Pinta o fundo */
-      color: white;
-      left: 0;
-      right: 0;
-      text-align: center;
-      border-bottom: 1px solid rgba(0,0,0,0.1);
+      padding: 10px 50px 10px 0; /* Espaço para não bater na borda */
+      background-color: var(--theme-color);
+      width: 100%;
+      height: 40px;
+      z-index: 100;
+      text-align: right;
     }
+
     .app-nav a {
       color: white !important;
       font-weight: bold;
-      margin: 0 15px;
+      margin-left: 20px;
       text-decoration: none;
     }
-    .app-nav a:hover {
-      text-decoration: underline;
+
+    /* Estilo da barra de busca no topo */
+    .search {
+      border-bottom: 1px solid rgba(0,0,0,0.07);
+    }
+    
+    /* Ajuste para o conteúdo não ficar embaixo da barra fixa */
+    section.content {
+      padding-top: 60px;
     }
 
-    /* Ajuste da logo na sidebar */
-    .sidebar .sidebar-nav img {
-      margin-bottom: 10px;
-      border-radius: 8px;
+    /* Customização da Sidebar */
+    .sidebar {
+      padding-top: 20px;
+    }
+    .sidebar-nav b {
+      color: var(--theme-color);
     }
   </style>
 </head>
 <body>
-  <div id="app">Carregando MinhaTirinha...</div>
+  <div id="app">Carregando documentação...</div>
   
   <script>
     window.$docsify = {
       name: 'MinhaTirinha - G08',
       repo: 'https://github.com/Marjoriemitzi/2026.1-T01-G08_MinhaTirinha_Entrega_01',
       
-      loadSidebar: true,   // Menu lateral
-      loadNavbar: true,    // ATIVA A BARRA COLORIDA NO TOPO
-      subMaxLevel: 2,      // Mostra tópicos das tabelas no menu
-      auto2top: true,      // Sobe ao topo na troca de página
+      loadSidebar: true,
+      loadNavbar: true,
+      subMaxLevel: 3,
+      auto2top: true,
       
+      // Configuração da Busca igual ao Grupo 1
       search: {
         maxAge: 86400000,
         paths: 'auto',
         placeholder: 'Pesquisar...',
-        noData: 'Nada encontrado!',
-        depth: 4
+        noData: 'Nenhum resultado!',
+        depth: 6
       }
     }
   </script>
