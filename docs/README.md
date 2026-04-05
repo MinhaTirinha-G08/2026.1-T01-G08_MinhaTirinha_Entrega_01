@@ -24,7 +24,7 @@ Toda a documentação técnica, artefatos de design e atas de reunião estão di
 
 ## Tecnologia
 
-A geração do site de documentação é realizada utilizando o **Docsify**. [cite_start]O desenvolvimento do projeto segue uma metodologia híbrida integrando **Scrum** e **XP**.
+A geração do site de documentação é realizada utilizando o **Docsify**. O desenvolvimento do projeto segue uma metodologia híbrida integrando **Scrum** e **XP**.
 
 ##  Integrantes
 
