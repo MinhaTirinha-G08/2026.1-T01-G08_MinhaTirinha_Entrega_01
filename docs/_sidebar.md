@@ -17,5 +17,8 @@
     * [Ata II - 26/03/2026](Base/Atas/Entrega%2001/Ata%20II) [cite: 50]
     * [Ata III - 04/04/2026](Base/Atas/Entrega%2001/Ata%20III)
 
+* **Engenharia de Requisitos**
+    * [Lista de Requisitos](Base/Requisitos)
+
 ---
 * [GitHub](https://github.com/Marjoriemitzi/2026.1-T01-G08_MinhaTirinha_Entrega_01)

@@ -11,9 +11,10 @@
 
 ## Sobre o Projeto
 
-[cite_start]**MinhaTirinha** é um aplicativo interativo de histórias em formato de gibi, no qual o usuário participa ativamente da narrativa por meio da **pintura dos cenários**. [cite_start]A experiência é guiada e condicionada às interações do usuário: os balões de fala ficam ocultos e só são revelados após a conclusão da pintura do respectivo quadrinho.
+**MinhaTirinha** é um aplicativo interativo de histórias em formato de gibi, no qual o usuário participa ativamente da narrativa por meio da **pintura dos cenários**.
+A experiência é guiada e condicionada às interações do usuário: os balões de fala ficam ocultos e só são revelados após a conclusão da pintura do respectivo quadrinho.
 
-[cite_start]O aplicativo oferece uma galeria de histórias organizadas por temas (infantil, humor, tecnologia, educação), com suporte a progresso salvo e revisitação de histórias concluídas.
+O aplicativo oferece uma galeria de histórias organizadas por temas (infantil, humor, tecnologia, educação), com suporte a progresso salvo e revisitação de histórias concluídas.
 
 ## Documentação (Wiki)
 
