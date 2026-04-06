@@ -1,8 +1,8 @@
-# Ata de Reunião 01 — Arquitetura de Software [01]
+# Ata de Reunião 01 — Arquitetura de Software 
 
 * **Data:** 25 de março de 2026.
 * **Duração:** Aproximadamente 50 minutos.
-* **Participantes:** Marjorie Mitzi, Yasmin, Guilherme Flyan, Gabriel Santos, Ana Carolina, João Marcelo, Pedro Henrique, Maria Samara, entre outros.
+* **Participantes:** Ana Carolina, Gabriel Santos, Guilherme Flyan, João Marcelo, Maria Samara, Marjorie Mitzi, Pedro Henrique e Yasmin.
 
 ## 1. Objetivo
 A reunião teve como objetivo discutir e definir o tema do projeto da disciplina, além de iniciar o planejamento das atividades iniciais.

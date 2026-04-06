@@ -2,7 +2,7 @@
 
 * **Data:** 26 de março de 2026.
 * **Horário/Duração:** Aproximadamente 95 minutos.
-* **Participantes:** Marjorie Mitzi, João Marcelo, Pedro Henrique, Guilherme Flyan, Ana Carolina, Raissa, Davi, entre outros.
+* **Participantes:** Ana Carolina, Davi, Guilherme Flyan, João Marcelo, Maria Samara, Marjorie Mitzi, Pedro Henrique e Raissa.
 
 ## 1. Objetivo
 A reunião teve como objetivo realizar o brainstorming inicial do projeto, com foco na definição de ideias relacionadas à aplicação de criação de tirinhas e no direcionamento das próximas atividades.

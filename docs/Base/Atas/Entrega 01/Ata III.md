@@ -2,7 +2,7 @@
 
 * **Data:** 04 de abril de 2026.
 * **Duração:** Aproximadamente 60 minutos.
-* **Participantes:** Marjorie Mitzi, João Marcelo, Pedro Henrique, Guilherme Flyan, Ana Carolina, Raissa, Davi, entre outros.
+* **Participantes:** Ana Carolina, Davi, Guilherme Flyan, João Marcelo, Maria Samara, Marjorie Mitzi, Pedro Henrique e Raissa.
 
 ## 1. Objetivo
 A reunião teve como objetivo principal a definição dos requisitos iniciais do sistema, com base nas discussões anteriores e no direcionamento já estabelecido para o projeto de criação de tirinhas.

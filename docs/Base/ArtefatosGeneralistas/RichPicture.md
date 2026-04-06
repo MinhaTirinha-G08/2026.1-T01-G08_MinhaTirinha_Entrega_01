@@ -40,7 +40,7 @@ Rich Picture é uma técnica visual utilizada para representar a visão geral de
 ??? note "Yasmin Dayrell"
     ![Rich Picture Yasmin](../assets/Design_Sprint/richpictureYasmin.jpg)
 
-??? note "Samara"
+??? note "Maria Samara"
     ![Rich Picture Samara](../assets/Design_Sprint/Screenshot_20260328_123145_Samsung%20Notes%20(1).jpg)
 
 ## Histórico de Versões 📅

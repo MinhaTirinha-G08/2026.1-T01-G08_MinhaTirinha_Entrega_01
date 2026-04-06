@@ -30,8 +30,18 @@ A geração do site de documentação é realizada utilizando o **Docsify**. O d
 
 | Foto | Nome | GitHub |
 | :--: | :-- | :-- |
-| <img src="https://github.com/Marjoriemitzi.png" width="50"> | Marjorie Mitzi | [@Marjoriemitzi](https://github.com/Marjoriemitzi) |
 | <img src="https://github.com/anawcarol.png" width="50"> | Ana Carolina Fialho | [@anawcarol](https://github.com/anawcarol) |
-| <img src="https://github.com/JoaoMarceloGCN.png" width="50"> | João Marcelo | [@JoaoMarceloGCN](https://github.com/JoaoMarceloGCN) | 
+| <img src="https://github.com/DaviNegreiros.png" width="50"> | Davi Monteiro de Negreiros | [@DaviNegreiros](https://github.com/DaviNegreiros) |
+| <img src="https://github.com/GabrielSPinto.png" width="50"> | Gabriel Santos Pinto | [@GabrielSPinto](https://github.com/GabrielSPinto) |
+| <img src="https://github.com/GFlyan.png" width="50"> | Guilherme Flyan | [@GFlyan](https://github.com/GFlyan) |
+| <img src="https://github.com/Marjoriemitzi.png" width="50"> | João Marcelo | [@JoaoMarceloGCN](https://github.com/JoaoMarceloGCN) |
+| <img src="https://github.com/SamaraAlvess.png" width="50"> | Maria Samara | [@SamaraAlvess](https://github.com/SamaraAlvess) |
+| <img src="https://github.com/Marjoriemitzi.png" width="50"> | Marjorie Mitzi | [@Marjoriemitzi](https://github.com/Marjoriemitzi) |
+| <img src="https://github.com/pedrohpsantos.png" width="50"> | Pedro Henrique Pereira Santos | [@pedrohpsantos](https://github.com/pedrohpsantos) |
+| <img src="https://github.com/Daisha19.png" width="50"> | Raissa Silva de Oliveira | [@Daisha19](https://github.com/Daisha19i) |
+| <img src="https://github.com/YasminDayrell.png" width="50"> | Yasmin Dayrell | [@YasminDayrell](https://github.com/YasminDayrell) |
+
+ 
+ 
 
 <font size="2"><p style="text-align: center">Fonte: Grupo 08, 2026.</p></font>
